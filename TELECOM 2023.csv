@@ -42,7 +42,7 @@
 6465,Alex,FTTH,245914920,alexnede10@gmail.com,KUNTUNSE,Debit Without Value,FTTH,TRUE,FALSE,3/1/2023 9:14,pierrette.ahiadorme
 6466,Isaac Boamah,4G,246305827,,LAPAZ,Connection Issue,4G Outdoor Router,TRUE,TRUE,3/1/2023 9:28,pierrette.ahiadorme
 6467,Richard,4G,272001095,,MALLAM,Debit Without Value,4G Outdoor Router,TRUE,FALSE,3/1/2023 9:43,pierrette.ahiadorme
-6468,Gare Lawson,4G,547180168,,PAPAO-HAATSO,Debit Without Value,4G Outdoor Router,TRUE,FALSE,3/1/2023 9:46,pierrette.ahiadorme
+6468,Gare Lawson,4G,547180168,,HAASTO,Debit Without Value,4G Outdoor Router,TRUE,FALSE,3/1/2023 9:46,pierrette.ahiadorme
 6469,Dickson,4G,503046562,,KOFORIDUA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,3/1/2023 9:55,pierrette.ahiadorme
 6470,Jeffery,Inquiry,302448916,,LAPAZ,Service Inquiry,FTTH,TRUE,FALSE,3/1/2023 10:27,pierrette.ahiadorme
 6471,Ali,4G,554826781,,TEMA,Other,4G Outdoor Router,TRUE,FALSE,3/1/2023 10:52,pierrette.ahiadorme
@@ -108,8 +108,8 @@
 6531,clara,FTTH,248888000,,LABONE,Manual Top Up Request,FTTH,TRUE,FALSE,7/1/2023 13:10,sylvester.horsu
 6532,edward,4G,272075312,,KWASHIEMAN,Debit Without Value,4G Outdoor Router,TRUE,FALSE,7/1/2023 13:12,sylvester.horsu
 6533,duke ofori,FTTH,248740086,,REGIMANUEL,Connection Issue,FTTH,TRUE,FALSE,7/1/2023 15:11,sylvester.horsu
-6534,Perry Gyabaah,FTTH,244986724,,GREENS,Connection Issue,FTTH,TRUE,FALSE,7/1/2023 15:21,sylvester.horsu
-6535,Magret Badu,FTTH,244986724,,GREENS,Debit Without Value,FTTH,TRUE,FALSE,7/1/2023 15:30,sylvester.horsu
+6534,Perry Gyabaah,FTTH,244986724,,TEMA,Connection Issue,FTTH,TRUE,FALSE,7/1/2023 15:21,sylvester.horsu
+6535,Magret Badu,FTTH,244986724,,TEMA,Debit Without Value,FTTH,TRUE,FALSE,7/1/2023 15:30,sylvester.horsu
 6536,Ofori Tenkorang,4G,204310031,,TSE ADDO,Connection Issue,4G Outdoor Router,TRUE,TRUE,7/1/2023 17:36,sylvester.horsu
 6537,Dominic,4G,503660044,,KASOA,Connection Issue,4G Outdoor Router,TRUE,FALSE,9/1/2023 11:29,john.hagan
 6538,edward,4G,272075312,,KWASHIEMAN,Connection Issue,4G Outdoor Router,TRUE,FALSE,9/1/2023 11:29,sylvester.horsu
@@ -274,7 +274,7 @@
 6697,Judith,4G,242355159,,ADENTA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,23/01/2023 08:32:25,john.hagan
 6698,Alex,FTTH,244271921,,KUNTUNSE,Debit Without Value,4G Outdoor Router,TRUE,FALSE,23/01/2023 08:40:47,john.hagan
 6699,Appiah - INGCO,FTTH,593853614,,KANTAMANTO,Connection Issue,FTTH,TRUE,TRUE,23/01/2023 08:44:39,john.hagan
-6700,Meissner,4G,241973541,,OKPOIGONNO,Debit Without Value,4G Outdoor Router,TRUE,FALSE,23/01/2023 08:56:03,john.hagan
+6700,Meissner,4G,241973541,,TESHIE,Debit Without Value,4G Outdoor Router,TRUE,FALSE,23/01/2023 08:56:03,john.hagan
 6701,Harry,4G,246950416,,OLD ASHONGMAN,Connection Issue,4G Outdoor Router,TRUE,FALSE,23/01/2023 08:59:20,john.hagan
 6702,Daniel,4G,202653266,,ACCRA,Debit Without Value,4G Indoor Router,TRUE,FALSE,23/01/2023 09:48:59,john.hagan
 6703,Denis,4G,248538389,,ACCRA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,23/01/2023 10:08:25,john.hagan
@@ -447,7 +447,7 @@
 6870,Sylvia,4G,208410015,,TEMA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,3/2/2023 12:45,fredrick.boateng
 6871,Ama,4G,247474743,,LEGON,Top Up Issue,4G Outdoor Router,TRUE,FALSE,3/2/2023 14:00,john.hagan
 6872,Annoh Mensah,4G,244314221,,TEMA,Connection Issue,4G Outdoor Router,TRUE,FALSE,3/2/2023 14:05,john.hagan
-6873,Yaw,4G,558131855,,AMARHIA,Connection Issue,4G Outdoor Router,TRUE,TRUE,3/2/2023 15:33,john.hagan
+6873,Yaw,4G,558131855,,AMRAHIA,Connection Issue,4G Outdoor Router,TRUE,TRUE,3/2/2023 15:33,john.hagan
 6874,Philip,4G,573428376,,SAKUMONO,Connection Issue,4G Outdoor Router,TRUE,FALSE,3/2/2023 15:45,john.hagan
 6875,Sandra,Inquiry,541428679,,AWOSHIE,Connection Issue,4G Outdoor Router,TRUE,FALSE,3/2/2023 15:53,john.hagan
 6876,Peter,4G,244349392,,AMASAMAN,Top Up Issue,4G Outdoor Router,TRUE,FALSE,3/2/2023 16:21,john.hagan
@@ -467,7 +467,7 @@
 6890,Philip,FTTH,543760091,,KANTAMANTO,Debit Without Value,FTTH,TRUE,FALSE,4/2/2023 11:23,sylvester.horsu
 6891,Donagy,4G,553759952,,KOFORIDUA,Connection Issue,4G Outdoor Router,TRUE,FALSE,4/2/2023 13:13,sylvester.horsu
 6892,ranking,FTTH,545824758,,KUNTUNSE,Manual Top Up Request,FTTH,TRUE,FALSE,4/2/2023 15:57,sylvester.horsu
-6893,Charles Okoree,FTTH,548336387,,APRICOT CRESCENT,Debit Without Value,FTTH,TRUE,FALSE,6/2/2023 8:31,sylvester.horsu
+6893,Charles Okoree,FTTH,548336387,,KUNTUNSE,Debit Without Value,FTTH,TRUE,FALSE,6/2/2023 8:31,sylvester.horsu
 6894,jones,4G,243151576,,TESHIE,Debit Without Value,4G Outdoor Router,TRUE,FALSE,6/2/2023 8:33,sylvester.horsu
 6895,emma,4G,598860273,,ABLEKUMA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,6/2/2023 8:34,sylvester.horsu
 6896,Bridget Adzoho,4G,247542882,,KUNTUNSE,Debit Without Value,4G Outdoor Router,TRUE,FALSE,6/2/2023 8:50,sylvester.horsu
@@ -597,7 +597,7 @@
 7020,Sidney,FTTH,541194717,sidney2xx@yahoo.com,KUNTUNSE,Debit Without Value,FTTH,TRUE,FALSE,13/02/2023 13:03:27,fredrick.boateng
 7021,Elvis Ofori,FTTH,207746124,elvisofori@hotmail.com,KUNTUNSE,Debit Without Value,FTTH,TRUE,FALSE,13/02/2023 13:27:27,fredrick.boateng
 7022,Fred Agyeman,4G,204420995,,SPINTEX,Manual Balance Request,4G Outdoor Router,TRUE,FALSE,13/02/2023 14:18:00,john.hagan
-7023,Universal FX,FTTH,551939923,,HERITAGE TOWERS,Connection Issue,FTTH,TRUE,FALSE,13/02/2023 15:55:15,john.hagan
+7023,Universal FX,FTTH,551939923,,RIDGE,Connection Issue,FTTH,TRUE,FALSE,13/02/2023 15:55:15,john.hagan
 7024,STC HEALTH PORTAL CLINIC,FTTH,248829762,,CIRCLE,Connection Issue,FTTH,TRUE,TRUE,13/02/2023 16:07:51,john.hagan
 7025,Caleb,Inquiry,553141341,,TAKORADI,Service Inquiry,4G Outdoor Router,TRUE,FALSE,13/02/2023 16:21:13,john.hagan
 7026,Sarah,4G,507151084,,LEGON,Debit Without Value,4G Outdoor Router,TRUE,FALSE,13/02/2023 16:54:58,john.hagan
@@ -763,7 +763,7 @@
 7186,Jonathan Quarm,FTTH,558105957,,KUNTUNSE,Connection Issue,FTTH,TRUE,TRUE,27/02/2023 11:46:56,sylvester.horsu
 7187,Kwabena Akoto,4G,262277601,,HAASTO,Debit Without Value ,4G Outdoor Router,TRUE,FALSE,27/02/2023 12:05:22,sylvester.horsu
 7188,Michel Vasselon,FTTH,555501834,,LABONE,Manual Top Up Request,FTTH,TRUE,FALSE,27/02/2023 12:14:58,sylvester.horsu
-7189,Emmanuel,4G,204280839,,TEASHI,Connection Issue,4G Outdoor Router,TRUE,FALSE,27/02/2023 12:31:17,sylvester.horsu
+7189,Emmanuel,4G,204280839,,TESHIE,Connection Issue,4G Outdoor Router,TRUE,FALSE,27/02/2023 12:31:17,sylvester.horsu
 7190,Fastus Asante,Inquiry,244093394,,ATWIMA KWANWOMA,Service Inquiry,4G Outdoor Router,TRUE,FALSE,27/02/2023 12:40:13,sylvester.horsu
 7191,Kingsley Oduro,4G,242903777,Kkwaadei@gmail.com,AMASAMAN,Manual Top Up Request,4G Outdoor Router,TRUE,FALSE,27/02/2023 14:01:31,fredrick.boateng
 7192,Frank Boamah,FTTH,244075897,gentlefrank01@yahoo.com,KUNTUNSE,Manual Top Up Request,FTTH,TRUE,FALSE,27/02/2023 16:04:12,fredrick.boateng
@@ -811,7 +811,7 @@
 7234,Rueben Avnash,4G,241199418,,TEMA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,2/3/2023 18:59,fredrick.boateng
 7235,Judith,FTTH,242355159,,ADENTA,Connection Issue,4G Outdoor Router,TRUE,FALSE,2/3/2023 19:43,fredrick.boateng
 7236,Francis,4G,543124307,,ACCRA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,2/3/2023 19:52,fredrick.boateng
-7237,Ephraim,4G,543542215,,LEKMA,Other,4G Outdoor Router,TRUE,FALSE,3/3/2023 7:31,john.hagan
+7237,Ephraim,4G,543542215,,TESHIE,Other,4G Outdoor Router,TRUE,FALSE,3/3/2023 7:31,john.hagan
 7238,Vincent,4G,206437685,,KUNTUNSE,Connection Issue,4G Outdoor Router,TRUE,TRUE,3/3/2023 8:13,john.hagan
 7239,Isaac,4G,246554295,,TEMA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,3/3/2023 9:10,john.hagan
 7240,Thomas Mueller,FTTH,549955830,T.Mueller080269@gmail.com,LABONE,Debit Without Value,FTTH,TRUE,FALSE,3/3/2023 9:59,john.hagan
@@ -866,7 +866,7 @@
 7289,Prince,4G,244652063,,TEMA,Connection Issue,4G Outdoor Router,TRUE,FALSE,8/3/2023 13:01,fredrick.boateng
 7290,Joy,FTTH,548066520,,CANTONMENTS,Manual Top Up Request,FTTH,TRUE,FALSE,8/3/2023 13:44,fredrick.boateng
 7291,kwabena,4G,558156653,,LAPAZ,Other,4G Outdoor Router,TRUE,FALSE,8/3/2023 14:03,john.hagan
-7292,jay mensah,FTTH,243044955,,GREENS,Debit Without Value,FTTH,TRUE,FALSE,8/3/2023 14:32,john.hagan
+7292,jay mensah,FTTH,243044955,,TEMA,Debit Without Value,FTTH,TRUE,FALSE,8/3/2023 14:32,john.hagan
 7293,Guzman,4G,508060310,,LABADI,Connection Issue,4G Outdoor Router,TRUE,TRUE,8/3/2023 15:04,sylvester.horsu
 7294,stephen,4G,549693454,,KASOA,Connection Issue,4G Outdoor Router,TRUE,TRUE,8/3/2023 15:06,sylvester.horsu
 7295,Mukhi,FTTH,244693630,,CANTONMENTS,Connection Issue,FTTH,TRUE,FALSE,8/3/2023 15:08,sylvester.horsu
@@ -950,7 +950,7 @@
 7373,lucy duah,FTTH,240077895,,KUNTUNSE,Manual Top Up Request,FTTH,TRUE,FALSE,15/03/2023 10:24:44,sylvester.horsu
 7374,kwabena Akoto,4G,262277601,,SPINTEX,Other,4G Outdoor Router,TRUE,FALSE,15/03/2023 10:43:00,sylvester.horsu
 7375,nick,Inquiry,276423336,,ABLEKUMA,Service Inquiry,4G Outdoor Router,TRUE,FALSE,15/03/2023 11:45:56,sylvester.horsu
-7376,gyamfi josephine,4G,545526610,,PATANG,Debit Without Value,4G Outdoor Router,TRUE,FALSE,15/03/2023 12:03:03,sylvester.horsu
+7376,gyamfi josephine,4G,545526610,,PANTANG,Debit Without Value,4G Outdoor Router,TRUE,FALSE,15/03/2023 12:03:03,sylvester.horsu
 7377,irene,FTTH,246035660,,MAKOLA,Debit Without Value,FTTH,TRUE,FALSE,15/03/2023 12:11:55,sylvester.horsu
 7378,Evans,4G,243464546,,POKUASE,Top Up Issue,4G Outdoor Router,TRUE,FALSE,15/03/2023 14:45:37,john.hagan
 7379,ken,Inquiry ,203971256,,KOFORIDUA,Service Inquiry,4G Outdoor Router,TRUE,FALSE,15/03/2023 14:51:14,john.hagan
@@ -997,7 +997,7 @@
 7420,Benjamin,FTTH,241018013,,KUNTUNSE,Connection Issue,FTTH,TRUE,TRUE,17/03/2023 15:19:16,john.hagan
 7421,Theodora,Inquiry,200631779,,RIDGE,Service Inquiry,Not Sure,TRUE,FALSE,17/03/2023 15:57:08,john.hagan
 7422,felix,FTTH,502298305,,REGIMANUEL,Connection Issue,FTTH,TRUE,FALSE,17/03/2023 15:58:52,john.hagan
-7423,Natalino,FTTH,244688120,,18 APRICOT CRESCENT,Connection Issue,FTTH,TRUE,FALSE,17/03/2023 17:33:05,john.hagan
+7423,Natalino,FTTH,244688120,,KUNTUNSE,Connection Issue,FTTH,TRUE,FALSE,17/03/2023 17:33:05,john.hagan
 7424,Duke ofori,FTTH,248740086,,SPINTEX,Connection Issue,FTTH,TRUE,FALSE,17/03/2023 17:43:48,john.hagan
 7425,Mahmoud Said Hassan Elsayed,FTTH,243388964,,REGIMANUEL,Connection Issue,FTTH,TRUE,FALSE,17/03/2023 18:02:17,john.hagan
 7426,Dina,FTTH,243418592,,REGIMANUEL,Connection Issue,FTTH,TRUE,FALSE,17/03/2023 18:03:43,john.hagan
@@ -1238,7 +1238,7 @@
 7661,Theodora,4G,553759952,,KOFORIDUA,Connection Issue,4G Outdoor Router,TRUE,FALSE,5/4/2023 9:23,john.hagan
 7662,Richard,4G,545927262,,LEGON,Other,4G Mifi,TRUE,FALSE,5/4/2023 9:48,john.hagan
 7663,Aziz Baako,FTTH,249926902,,KUNTUNSE,Connection Issue,FTTH,TRUE,TRUE,5/4/2023 14:12,john.hagan
-7664,MELODY SERWAA,4G,245450705,melodycaesar@yahoo.com,NEW DAWHENYA,Manual Top Up Request,4G Outdoor Router,TRUE,FALSE,6/4/2023 7:55,fredrick.boateng
+7664,MELODY SERWAA,4G,245450705,melodycaesar@yahoo.com,DAWHENYA,Manual Top Up Request,4G Outdoor Router,TRUE,FALSE,6/4/2023 7:55,fredrick.boateng
 7665,Youseif Salman,FTTH,242122020,Salamanki.ltd@gmail.com,ACCRA,Manual Top Up Request,FTTH,TRUE,FALSE,6/4/2023 8:18,fredrick.boateng
 7666,Patrick,4G,549509473,,TEMA,Connection Issue,4G Outdoor Router,TRUE,TRUE,6/4/2023 9:51,fredrick.boateng
 7667,David - Universall FX,FTTH,551939923,universalfx.group@gmail.com,RIDGE,Manual Top Up Request,FTTH,TRUE,FALSE,6/4/2023 12:26,fredrick.boateng
@@ -1250,7 +1250,7 @@
 7673,Close,4G,542295822,,KASOA,Connection Issue,4G Outdoor Router,TRUE,FALSE,6/4/2023 16:27,john.hagan
 7674,Kwabena Oppong,4G,208696086,,KASOA,Connection Issue,4G Outdoor Router,TRUE,FALSE,6/4/2023 16:29,john.hagan
 7675,Eugenia,4G,243307353,,KUNTUNSE,Top Up Issue,FTTH,TRUE,FALSE,6/4/2023 16:58,john.hagan
-7676,Natalino,FTTH,244331513,,18 APRICOT CRESCENT,Top Up Issue,FTTH,TRUE,FALSE,6/4/2023 19:09,john.hagan
+7676,Natalino,FTTH,244331513,,KUNTUNSE,Top Up Issue,FTTH,TRUE,FALSE,6/4/2023 19:09,john.hagan
 7677,Boatema,FTTH,207353988,,REGIMANUEL,Top Up Issue,FTTH,TRUE,FALSE,6/4/2023 19:40,john.hagan
 7678,Boateng,4G,246627433,,SPINTEX,Debit Without Value,4G Outdoor Router,TRUE,FALSE,7/4/2023 9:30,sylvester.horsu
 7679,nana ntim,4G,558133660,,KOFORIDUA,Connection Issue,4G Outdoor Router,TRUE,FALSE,7/4/2023 9:50,sylvester.horsu
@@ -1376,7 +1376,7 @@
 7799,Ranking Cruise,FTTH,545824758,Private.sc1987@gmail.com,KUNTUNSE,Manual Top Up Request,FTTH,TRUE,FALSE,17/04/2023 18:04:08,fredrick.boateng
 7800,Yaw,4G,507080910,,ARABELLA,Top Up Issue,FTTH,TRUE,FALSE,18/04/2023 08:02:14,john.hagan
 7801,Florence,4G,540774893,,BOTWE,Debit Without Value,4G Outdoor Router,TRUE,FALSE,18/04/2023 08:50:36,john.hagan
-7802,Ishmael,4G,207761089,,"PANTANG AGBOGBA 5.703792, -0.196190",Service Inquiry,4G Indoor Router,TRUE,FALSE,18/04/2023 09:26:44,john.hagan
+7802,Ishmael,4G,207761089,,PANTANG,Service Inquiry,4G Indoor Router,TRUE,FALSE,18/04/2023 09:26:44,john.hagan
 7803,Jennifer,4G,244858506,,NORTH INDUSTRIAL AREA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,18/04/2023 09:56:59,john.hagan
 7804,Frank,FTTH,244075897,,KUNTUNSE,Top Up Issue,FTTH,TRUE,FALSE,18/04/2023 10:09:18,john.hagan
 7805,Alvin,4G,555219953,,TESHIE,Other,4G Outdoor Router,TRUE,FALSE,18/04/2023 10:26:38,john.hagan
@@ -1451,7 +1451,7 @@
 7874,Daniel,4G,595656816,,ACCRA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,25/04/2023 14:27:40,fredrick.boateng
 7875,Grace,4G,204751953,,ACCRA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,25/04/2023 15:38:15,fredrick.boateng
 7876,Curtis Tetteh Djaba,FTTH,249997561,kwaku.nick@icloud.com,ACCRA,Manual Top Up Request,FTTH,TRUE,FALSE,25/04/2023 16:59:21,fredrick.boateng
-7877,Melody,4G,245450705,,NEW DAWHENYA,Top Up Issue,4G Outdoor Router,TRUE,FALSE,26/04/2023 07:46:41,john.hagan
+7877,Melody,4G,245450705,,DAWHENYA,Top Up Issue,4G Outdoor Router,TRUE,FALSE,26/04/2023 07:46:41,john.hagan
 7878,Natalino,FTTH,244688120,,REGIMANUEL,Manual Balance Request,FTTH,TRUE,FALSE,26/04/2023 08:38:10,john.hagan
 7879,Yaw Odame,4G,209351173,,AGBOGBA,Connection Issue,4G Outdoor Router,TRUE,TRUE,26/04/2023 08:49:01,john.hagan
 7880,Kojo,FTTH,592032624,,REGIMANUEL,Top Up Issue,FTTH,TRUE,FALSE,26/04/2023 11:06:10,john.hagan
@@ -1505,7 +1505,7 @@
 7928,Julia Tomety,4G,272075312,,KWASHIEMAN,Connection Issue,4G Outdoor Router,TRUE,TRUE,1/5/2023 10:08,sylvester.horsu
 7929,Justus Awua,4G,262288340,,TEMA,Connection Issue,4G Outdoor Router,TRUE,FALSE,1/5/2023 10:26,sylvester.horsu
 7930,Dr. Antwi,4G,570753292,,TEMA,Connection Issue,4G Outdoor Router,TRUE,FALSE,1/5/2023 10:28,sylvester.horsu
-7931,tommi,4G,200009748,,AGRIVISION STREET 7,Connection Issue,4G Outdoor Router,TRUE,FALSE,1/5/2023 10:29,sylvester.horsu
+7931,tommi,4G,200009748,,ACCRA,Connection Issue,4G Outdoor Router,TRUE,FALSE,1/5/2023 10:29,sylvester.horsu
 7932,richie,4G,557557986,,TEMA,Connection Issue,4G Outdoor Router,TRUE,FALSE,1/5/2023 10:33,sylvester.horsu
 7933,Kofi Obeng,FTTH,207960905,,NAKIA,Manual Top Up Request,FTTH,TRUE,FALSE,1/5/2023 10:45,sylvester.horsu
 7934,Sidney,FTTH,541194717,,KUNTUNSE,Manual Top Up Request,FTTH,TRUE,FALSE,1/5/2023 11:57,sylvester.horsu
@@ -1651,7 +1651,7 @@
 8074,Man sign bhati,FTTH,270085511,rc003261@gmail.com,ACCRA,Connection Issue,FTTH,TRUE,TRUE,15/05/2023 19:20:49,fredrick.boateng
 8075,Okine,4G,549658366,,TESHIE,Debit Without Value,4G Outdoor Router,TRUE,FALSE,16/05/2023 08:37:12,sylvester.horsu
 8076,Emma Quayeson,4G,558128657,,GBAWE,Debit Without Value,4G Outdoor Router,TRUE,FALSE,16/05/2023 08:40:12,sylvester.horsu
-8077,Ahmend,Inquiry,555594205,,"PANTANG 5.729815, -0.184770",Service Inquiry,4G Outdoor Router,TRUE,FALSE,16/05/2023 08:41:01,john.hagan
+8077,Ahmend,Inquiry,555594205,,PANTANG,Service Inquiry,4G Outdoor Router,TRUE,FALSE,16/05/2023 08:41:01,john.hagan
 8078,Raj Mukhi,FTTH,244320839,,CANTONMENTS,Manual Top Up Request,FTTH,TRUE,FALSE,16/05/2023 08:43:41,sylvester.horsu
 8079,Stephen,4G,549693454,,KASOA,Connection Issue,4G Outdoor Router,TRUE,FALSE,16/05/2023 09:47:02,john.hagan
 8080,Francis,4G,207868601,,KASOA,Connection Issue,4G Outdoor Router,TRUE,FALSE,16/05/2023 10:02:52,john.hagan
@@ -1716,7 +1716,7 @@
 8139,Eddy,4G,244857972,,LAPAZ,Debit Without Value,4G Outdoor Router,TRUE,FALSE,20/05/2023 10:43:22,fredrick.boateng
 8140,Divine,Inquiry,248380448,,KASOA,Service Inquiry,4G Outdoor Router,TRUE,FALSE,20/05/2023 11:39:10,fredrick.boateng
 8141,Robert,4G,550276276,,KASOA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,20/05/2023 14:16:08,fredrick.boateng
-8142,Gyasi Bright,4G,244291010,,UNDP FLATS CANTOMENTS,Connection Issue,4G Outdoor Router,TRUE,TRUE,22/05/2023 08:55:02,sylvester.horsu
+8142,Gyasi Bright,4G,244291010,,CANTONMENTS,Connection Issue,4G Outdoor Router,TRUE,TRUE,22/05/2023 08:55:02,sylvester.horsu
 8143,Rahama Adam,4G,246259213,rahamaadam8@gmail.com,DOME,Manual Top Up Request,4G Outdoor Router,TRUE,FALSE,22/05/2023 09:20:43,fredrick.boateng
 8144,Kelly Evans,FTTH,244644593,,KUNTUNSE,Connection Issue,FTTH,TRUE,FALSE,22/05/2023 09:43:49,sylvester.horsu
 8145,William,Inquiry,558082786,,LABONE,Service Inquiry,FTTH,TRUE,FALSE,22/05/2023 09:59:02,fredrick.boateng
@@ -1779,7 +1779,7 @@
 8202,Edward,4G,272075312,,KWASHIEMAN,Connection Issue,4G Outdoor Router,TRUE,FALSE,26/05/2023 09:37:37,sylvester.horsu
 8203,Edward,4G,242379340,,KASOA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,26/05/2023 09:49:47,sylvester.horsu
 8204,felix,Inquiry,556647932,,SOWUTUOM,Service Inquiry,4G Outdoor Router,TRUE,FALSE,26/05/2023 10:45:47,sylvester.horsu
-8205,Gloria Tamakloe,4G,557754411,,"DAMBA 1, BORTEYMAN SSNIT FLATS",Connection Issue,4G Outdoor Router,TRUE,FALSE,26/05/2023 11:17:16,sylvester.horsu
+8205,Gloria Tamakloe,4G,557754411,,BORTEYMAN,Connection Issue,4G Outdoor Router,TRUE,FALSE,26/05/2023 11:17:16,sylvester.horsu
 8206,Malek Abdul Wahed,FTTH,243273602,,REGIMANUEL,Manual Top Up Request,FTTH,TRUE,FALSE,26/05/2023 14:55:11,john.hagan
 8207,Koby,FTTH,249665578,,KUNTUNSE,Manual Top Up Request,FTTH,TRUE,FALSE,26/05/2023 17:40:59,john.hagan
 8208,Alberta,FTTH,246673301,,KUNTUNSE,Debit Without Value,FTTH,TRUE,FALSE,26/05/2023 19:56:51,john.hagan
@@ -1835,7 +1835,7 @@
 8258,Shadrack,4G,551323141,,DANSOMAN,Other,4G Outdoor Router,TRUE,FALSE,31/05/2023 09:34:48,john.hagan
 8259,David,4G,209948993,,KUNTUNSE,Top Up Issue,FTTH,TRUE,FALSE,31/05/2023 10:39:39,john.hagan
 8260,Thelma Asiamah,4G,577281790,,AWOSHIE,Manual Balance Request,4G Outdoor Router,TRUE,FALSE,31/05/2023 11:40:32,john.hagan
-8261,Prince,Inquiry,201637283,,AMARHIA,Service Inquiry,Not Sure,TRUE,FALSE,31/05/2023 11:49:43,john.hagan
+8261,Prince,Inquiry,201637283,,AMRAHIA,Service Inquiry,Not Sure,TRUE,FALSE,31/05/2023 11:49:43,john.hagan
 8262,Emmanuel,Inquiry,553159096,,KASOA,Service Inquiry,4G Outdoor Router,TRUE,FALSE,31/05/2023 11:55:25,john.hagan
 8263,crabbe,4G,204200060,,LABONE,Connection Issue,4G Outdoor Router,TRUE,FALSE,31/05/2023 12:19:12,sylvester.horsu
 8264,Hassan Safa,4G,245346373,,KUNTUNSE,Connection Issue,4G Outdoor Router,TRUE,TRUE,31/05/2023 14:09:16,fredrick.boateng
@@ -1890,7 +1890,7 @@
 8313,KWESI,FTTH,592676308,,KUNTUNSE,Connection Issue,FTTH,TRUE,TRUE,3/6/2023 16:45,john.hagan
 8314,Ranking cruse,FTTH,545824758,,KUNTUNSE,Top Up Issue,FTTH,TRUE,FALSE,5/6/2023 8:37,john.hagan
 8315,natalino,FTTH,244331513,,REGIMANUEL,Top Up Issue,FTTH,TRUE,FALSE,5/6/2023 9:18,john.hagan
-8316,Gratia law consult,FTTH,501209645,,DANKWAH CIRCLE,Manual Balance Request,FTTH,TRUE,FALSE,5/6/2023 9:35,john.hagan
+8316,Gratia law consult,FTTH,501209645,,OSU,Manual Balance Request,FTTH,TRUE,FALSE,5/6/2023 9:35,john.hagan
 8317,John Villars,FTTH,244354132,,REGIMANUEL,Connection Issue,FTTH,TRUE,TRUE,5/6/2023 9:44,john.hagan
 8318,portia,4G,557634611,,SPINTEX,Debit Without Value,4G Outdoor Router,TRUE,FALSE,5/6/2023 10:26,sylvester.horsu
 8319,AMOAKO,4G,248375355,,TEMA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,5/6/2023 10:28,sylvester.horsu
@@ -1929,7 +1929,7 @@
 8352,Clement,4G,248116711,,ASHONGMAN,Manual Balance Request,4G Outdoor Router,TRUE,FALSE,7/6/2023 11:48,john.hagan
 8353,Stephen,4G,243709702,,GBAWE,Debit Without Value,4G Outdoor Router,TRUE,FALSE,7/6/2023 11:50,john.hagan
 8354,Harry,4G,246950416,,ASHONGMAN,Manual Balance Request,4G Outdoor Router,TRUE,FALSE,7/6/2023 11:52,john.hagan
-8355,Otto,Inquiry,241973541,,OKPAI GONNO,Service Inquiry,FTTH,TRUE,FALSE,7/6/2023 11:55,john.hagan
+8355,Otto,Inquiry,241973541,,TESHIE,Service Inquiry,FTTH,TRUE,FALSE,7/6/2023 11:55,john.hagan
 8356,paul,4G,261738341,,TEMA,Debit Without Value,4G Outdoor Router,TRUE,TRUE,7/6/2023 12:16,sylvester.horsu
 8357,ekenu,4G,244677431,,TEMA,Debit Without Value ,4G Outdoor Router,TRUE,FALSE,7/6/2023 12:21,sylvester.horsu
 8358,Magda Yesutor,4G,209250165,,ASHONGMAN,Connection Issue,4G Outdoor Router,TRUE,TRUE,7/6/2023 12:22,john.hagan
@@ -2074,7 +2074,7 @@
 8497,rahama,4G,246259213,,DOME,Debit Without Value,4G Outdoor Router,TRUE,FALSE,17/06/2023 15:57:10,sylvester.horsu
 8498,ROSE,4G,244339186,,TEMA,Manual Top Up Request,4G Outdoor Router,TRUE,FALSE,17/06/2023 16:03:11,sylvester.horsu
 8499,maana,FTTH,542800304,,TEMA,Manual Top Up Request,FTTH,TRUE,FALSE,17/06/2023 16:05:50,sylvester.horsu
-8500,Magret Badu,FTTH,244986724,,GREENS,Manual Top Up Request,FTTH,TRUE,FALSE,17/06/2023 16:11:41,sylvester.horsu
+8500,Magret Badu,FTTH,244986724,,TEMA,Manual Top Up Request,FTTH,TRUE,FALSE,17/06/2023 16:11:41,sylvester.horsu
 8501,Savy,4G,203198279,,LEGON,Debit Without Value,4G Outdoor Router,TRUE,FALSE,19/06/2023 10:42:02,john.hagan
 8502,Nana yaw,4G,551422919,,TEMA,Debit Without Value,FTTH,TRUE,FALSE,19/06/2023 11:39:12,sylvester.horsu
 8503,Kwaku,4G,545183792,,KASOA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,19/06/2023 11:43:41,sylvester.horsu
@@ -2174,7 +2174,7 @@
 8597,Peggy,Inquiry,244331896,,SAKUMONO,Service Inquiry,4G Outdoor Router,TRUE,FALSE,26/06/2023 15:33:36,john.hagan
 8598,Seem,4G,244949840,,ACCRA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,26/06/2023 19:05:38,john.hagan
 8599,Daniel,4G,243251188,,TESHIE,Debit Without Value,4G Outdoor Router,TRUE,FALSE,26/06/2023 19:18:36,john.hagan
-8600,Universal FX,FTTH,241975270,,HERITAGE TOWERS,Top Up Issue,FTTH,TRUE,FALSE,26/06/2023 19:27:01,john.hagan
+8600,Universal FX,FTTH,241975270,,RIDGE,Top Up Issue,FTTH,TRUE,FALSE,26/06/2023 19:27:01,john.hagan
 8601,Stephen,4G,547575005,,ACCRA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,26/06/2023 19:36:25,john.hagan
 8602,Isaac,4G,596060997,,ACCRA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,26/06/2023 19:47:24,john.hagan
 8603,Richard,4G,244039955,,OYARIFA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,27/06/2023 07:43:22,fredrick.boateng
@@ -2239,7 +2239,7 @@
 8662,evelyn,4G,247846026,,LEGON,Connection Issue,4G Outdoor Router,TRUE,FALSE,30/06/2023 13:49:37,sylvester.horsu
 8663,Helena,4G,244644046,,LEGON,Debit Without Value,4G Outdoor Router,TRUE,FALSE,30/06/2023 14:38:14,john.hagan
 8664,Alvin,4G,244645320,,PANTANG,Debit Without Value,4G Outdoor Router,TRUE,FALSE,30/06/2023 14:39:59,john.hagan
-8665,Luis,Inquiry,543190211,,LEKMA,Service Inquiry,FTTH,TRUE,FALSE,30/06/2023 15:30:28,john.hagan
+8665,Luis,Inquiry,543190211,,TESHIE,Service Inquiry,FTTH,TRUE,FALSE,30/06/2023 15:30:28,john.hagan
 8666,Clara boateng,FTTH,248888000,,SPINTEX,Manual Top Up Request,FTTH,TRUE,FALSE,30/06/2023 15:37:41,john.hagan
 8667,Charles,Inquiry,207597019,,KUNTUNSE,Service Inquiry,FTTH,TRUE,FALSE,30/06/2023 17:27:07,john.hagan
 8668,david,4G,548686406,,TEMA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,1/7/2023 12:33,sylvester.horsu
@@ -2345,7 +2345,7 @@
 8768,justice,4G,555077921,,KOFORIDUA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,13/07/2023 16:02:05,sylvester.horsu
 8769,DR. BECKERY,4G,244114110,,KOFORIDUA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,13/07/2023 16:03:56,sylvester.horsu
 8770,François Acquah-Aikins,FTTH,268090861,,KUNTUNSE,Manual Top Up Request,FTTH,TRUE,FALSE,13/07/2023 16:09:31,sylvester.horsu
-8771,David Njina,FTTH,241975270,,HERITAGE TOWERS,Connection Issue,FTTH,TRUE,FALSE,13/07/2023 16:12:32,sylvester.horsu
+8771,David Njina,FTTH,241975270,,RIDGE,Connection Issue,FTTH,TRUE,FALSE,13/07/2023 16:12:32,sylvester.horsu
 8772,dr christopher,4G,244313937,,MADINA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,13/07/2023 19:52:22,sylvester.horsu
 8773,horace,FTTH,502646147,,KUNTUNSE,Debit Without Value,FTTH,TRUE,FALSE,13/07/2023 19:57:30,sylvester.horsu
 8774,Maxwell,4G,243353817,,LEGON,Connection Issue,4G Outdoor Router,TRUE,TRUE,14/07/2023 07:24:31,fredrick.boateng
@@ -2364,7 +2364,7 @@
 8787,Stephen Oboite,FTTH,599512295,,KUNTUNSE,Debit Without Value,FTTH,TRUE,FALSE,15/07/2023 09:41:12,fredrick.boateng
 8788,Kobina,4G,266380390,,ACCRA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,15/07/2023 10:13:52,fredrick.boateng
 8789,Williams,4G,500924537,,ACCRA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,15/07/2023 11:56:28,fredrick.boateng
-8790,Clifford,Inquiry,201882695,,POBIMAN,Service Inquiry,4G Outdoor Router,TRUE,FALSE,15/07/2023 13:11:56,fredrick.boateng
+8790,Clifford,Inquiry,201882695,,POBIMAM,Service Inquiry,4G Outdoor Router,TRUE,FALSE,15/07/2023 13:11:56,fredrick.boateng
 8791,Aziz Baako,FTTH,249926902,,KUNTUNSE,Debit Without Value,FTTH,TRUE,FALSE,15/07/2023 14:50:09,fredrick.boateng
 8792,Isaac,4G,546163463,,ACCRA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,15/07/2023 16:54:34,fredrick.boateng
 8793,Enoch,4G,558105575,,KASOA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,15/07/2023 17:06:13,fredrick.boateng
@@ -2618,7 +2618,7 @@
 9041,Kofi Pianim,4G,244366734,kopianim@gmail.com,MALLAM,Connection Issue,4G Outdoor Router,TRUE,FALSE,7/8/2023 9:07,sylvester.horsu
 9042,Peter Bobson,4G,200075031,,TEMA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,7/8/2023 9:56,fredrick.boateng
 9043,Lynxz Collins,4G,244722156,collins.lynxz@gmail.com,KWABENYA,Manual Top Up Request,4G Outdoor Router,TRUE,FALSE,7/8/2023 10:00,sylvester.horsu
-9044,David Njina,FTTH,531809050,universalfx.group@gmail.com,TRUST TOWERS,Manual Top Up Request,4G Outdoor Router,TRUE,FALSE,7/8/2023 10:19,sylvester.horsu
+9044,David Njina,FTTH,531809050,universalfx.group@gmail.com,RIDGE,Manual Top Up Request,4G Outdoor Router,TRUE,FALSE,7/8/2023 10:19,sylvester.horsu
 9045,Bernice Appiah,FTTH,231227191,asantewaa81@hotmail.com,SPINTEX,Manual Top Up Request,FTTH,TRUE,FALSE,7/8/2023 11:05,fredrick.boateng
 9046,Kamal,Inquiry,540116215,,TSE ADDO,Service Inquiry,FTTH,TRUE,FALSE,7/8/2023 11:25,fredrick.boateng
 9047,Steve,Inquiry,548690902,,KWEIMAN,Service Inquiry,4G Outdoor Router,TRUE,FALSE,7/8/2023 11:26,sylvester.horsu
@@ -2679,7 +2679,7 @@
 9102,KharisGlobal,4G,303958018,Info@kharisglobalgroup.com,LEGON,Connection Issue,4G Outdoor Router,TRUE,TRUE,11/8/2023 16:27,john.hagan
 9103,Sandra Mensah,4G,240555351,vinccie23@gmail.com,TEIMAN,Connection Issue,4G Outdoor Router,TRUE,FALSE,11/8/2023 16:35,john.hagan
 9104,Alberta,FTTH,559059166,,KUNTUNSE,Top Up Issue,FTTH,TRUE,FALSE,11/8/2023 16:50,john.hagan
-9105,Yaw,4G,558131855,,AMARHIA,Top Up Issue,4G Outdoor Router,TRUE,FALSE,11/8/2023 19:40,john.hagan
+9105,Yaw,4G,558131855,,AMRAHIA,Top Up Issue,4G Outdoor Router,TRUE,FALSE,11/8/2023 19:40,john.hagan
 9106,Alberta baawuah,FTTH,559059166,,KUNTUNSE,Connection Issue,FTTH,TRUE,TRUE,11/8/2023 19:52,john.hagan
 9107,kofi Yesu,4G,249375223,,TEMA,Connection Issue,4G Outdoor Router,TRUE,FALSE,12/8/2023 12:23,john.hagan
 9108,Thelma,4G,244235465,,SPINTEX,Connection Issue,4G Outdoor Router,TRUE,TRUE,12/8/2023 16:28,john.hagan
@@ -2977,7 +2977,7 @@
 9400,Anthony,Inquiry,245034490,,REGIMANUEL,Service Inquiry,FTTH,TRUE,FALSE,4/9/2023 12:29,fredrick.boateng
 9401,stephen,FTTH,240535909,,AYI MENSAH,Debit Without Value,FTTH,TRUE,FALSE,4/9/2023 12:30,sylvester.horsu
 9402,amos,4G,533116380,,KASOA,Connection Issue,4G Outdoor Router,TRUE,FALSE,4/9/2023 13:00,sylvester.horsu
-9403,Nana Adwoa,4G,203704044,,TUBA,Connection Issue,4G Outdoor Router,TRUE,FALSE,4/9/2023 13:10,fredrick.boateng
+9403,Nana Adwoa,4G,203704044,,WEIJA,Connection Issue,4G Outdoor Router,TRUE,FALSE,4/9/2023 13:10,fredrick.boateng
 9404,Ernestina,4G,548855873,,HAASTO,Connection Issue,4G Outdoor Router,TRUE,FALSE,4/9/2023 14:12,david.kotei
 9405,Lawson,4G,276026431,,KASOA,Connection Issue,4G Outdoor Router,TRUE,FALSE,4/9/2023 14:26,david.kotei
 9406,Tenkorang,4G,204310031,,KASOA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,4/9/2023 14:36,david.kotei
@@ -3028,7 +3028,7 @@
 9451,Nunoo,Inquiry,552489927,,ASHONGMAN,Service Inquiry,FTTH,TRUE,FALSE,8/9/2023 14:43,david.kotei
 9452,Aubrey,Inquiry,572300509,,TEMA,Service Inquiry,FTTH,TRUE,FALSE,8/9/2023 14:46,david.kotei
 9453,Ebenezer,4G,240096477,,KASOA,Connection Issue,4G Outdoor Router,TRUE,TRUE,8/9/2023 15:03,fredrick.boateng
-9454,EL-Sayus Company LTD,FTTH,553087856,elsayus.management@gmail.com,OSU - RIDGE,Manual Top Up Request,FTTH,TRUE,FALSE,8/9/2023 15:03,david.kotei
+9454,EL-Sayus Company LTD,FTTH,553087856,elsayus.management@gmail.com,OSU,Manual Top Up Request,FTTH,TRUE,FALSE,8/9/2023 15:03,david.kotei
 9455,Edward,4G,267112000,,ABOKOBI,Connection Issue,4G Outdoor Router,TRUE,FALSE,8/9/2023 15:48,david.kotei
 9456,Edward Kwesi Ansah,4G,242379340,,KASOA,Connection Issue,4G Outdoor Router,TRUE,FALSE,8/9/2023 16:15,fredrick.boateng
 9457,Emmanuel,4G,599922451,,ACCRA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,8/9/2023 17:19,fredrick.boateng
@@ -3183,7 +3183,7 @@
 9606,Ranking  Cruse,FTTH,545824758,,KUNTUNSE,Connection Issue,FTTH,TRUE,FALSE,21/09/2023 08:13:03,john.hagan
 9607,Jeremy,4G,243425550,,DOME,Other,4G Outdoor Router,TRUE,FALSE,21/09/2023 08:32:41,john.hagan
 9608,Prince,4G,573035325,,ACCRA,Other,4G Outdoor Router,TRUE,FALSE,21/09/2023 08:34:34,john.hagan
-9609,Yaw Kwakye,FTTH,201863286,,GARDEN VILLA HOUSE 2,Manual Top Up Request,FTTH,TRUE,FALSE,21/09/2023 08:58:12,john.hagan
+9609,Yaw Kwakye,FTTH,201863286,,37,Manual Top Up Request,FTTH,TRUE,FALSE,21/09/2023 08:58:12,john.hagan
 9610,Naa,4G,200610754,,LABADI,Other,4G Outdoor Router,TRUE,FALSE,21/09/2023 10:25:08,john.hagan
 9611,Louis,4G,550001782,,ACCRA,Other,4G Indoor Router,TRUE,FALSE,21/09/2023 12:01:53,john.hagan
 9612,Dina,FTTH,243418592,,REGIMANUEL,Connection Issue,FTTH,TRUE,FALSE,21/09/2023 12:06:58,john.hagan
@@ -3251,11 +3251,11 @@
 9674,Richard Lartey,Inquiry,593539810,,KOFORIDUA,Service Inquiry,4G Mifi,TRUE,FALSE,25/09/2023 17:37:54,fredrick.boateng
 9675,Papa Annan Daniels,4G,208223687,,WEIJA,Connection Issue,4G Outdoor Router,TRUE,TRUE,25/09/2023 17:39:48,david.kotei
 9676,Alvin Sackeyfio,4G,555219953,,TESHIE,Other,4G Outdoor Router,TRUE,FALSE,25/09/2023 17:51:41,david.kotei
-9677,Isaac Alvin Amoah,4G,244645320,,PANTANG P & T,Connection Issue,4G Outdoor Router,TRUE,FALSE,25/09/2023 18:56:01,david.kotei
+9677,Isaac Alvin Amoah,4G,244645320,,PANTANG,Connection Issue,4G Outdoor Router,TRUE,FALSE,25/09/2023 18:56:01,david.kotei
 9678,Kwadwo CSIR,FTTH,541879034,,LEGON,Connection Issue,FTTH,TRUE,TRUE,25/09/2023 20:01:50,david.kotei
 9679,Hussein,FTTH,553848492,hamdanhussein318@gmail.com,KUNTUNSE,Connection Issue,FTTH,TRUE,TRUE,25/09/2023 20:08:59,david.kotei
 9680,Franscis,FTTH,244318686,,REGIMANUEL,Top Up Issue,FTTH,TRUE,FALSE,26/09/2023 09:11:47,john.hagan
-9681,Joseph Godson,4G,557634611,,ESTATE ROAD,Connection Issue,4G Outdoor Router,TRUE,TRUE,26/09/2023 11:11:33,sylvester.horsu
+9681,Joseph Godson,4G,557634611,,ACCRA,Connection Issue,4G Outdoor Router,TRUE,TRUE,26/09/2023 11:11:33,sylvester.horsu
 9682,Benjamin,4G,246748771,,TESANO,Connection Issue,4G Outdoor Router,TRUE,TRUE,26/09/2023 12:02:20,john.hagan
 9683,Aziz Baako,FTTH,249926902,,KUNTUNSE,Other,FTTH,TRUE,FALSE,26/09/2023 12:04:39,john.hagan
 9684,Bright,4G,200815247,,AIRPORT RESIDENCE,Other,4G Outdoor Router,TRUE,FALSE,26/09/2023 12:38:52,john.hagan
@@ -3339,7 +3339,7 @@
 9762,Eleanor,4G,243312999,,ACHIMOTA,Debit Without Value,4G Outdoor Router,TRUE,FALSE,30/09/2023 15:12:44,david.kotei
 9763,Amos,4G,592032624,,KANESHIE,Other,4G Outdoor Router,TRUE,FALSE,30/09/2023 15:18:12,david.kotei
 9764,Justban,4G,555077921,,ACCRA,Other,4G Outdoor Router,TRUE,FALSE,2/10/2023 7:28,fredrick.boateng
-9765,Otto Meissner,4G,241973541,,OKPOI GONNO AROUND SPINTEX,Other,4G Outdoor Router,TRUE,FALSE,2/10/2023 8:13,david.kotei
+9765,Otto Meissner,4G,241973541,,TESHIE,Other,4G Outdoor Router,TRUE,FALSE,2/10/2023 8:13,david.kotei
 9766,Emmanuel,4G,244647603,,ACHIMOTA,Other,4G Outdoor Router,TRUE,FALSE,2/10/2023 8:26,fredrick.boateng
 9767,Duhu,4G,260930256,,TAIFA,Connection Issue,4G Outdoor Router,TRUE,TRUE,2/10/2023 8:41,fredrick.boateng
 9768,Paul,Inquiry,249857534,,ASHALEY BOTWE,Service Inquiry,FTTH,TRUE,FALSE,2/10/2023 8:52,david.kotei
@@ -3419,7 +3419,7 @@
 9842,Youseif Salamki,FTTH,242122020,,REGIMANUEL,Manual Top Up Request,FTTH,TRUE,FALSE,7/10/2023 8:36,john.hagan
 9843,Felix,4G,248801873,,KWABENYA,Connection Issue,4G Outdoor Router,TRUE,FALSE,7/10/2023 8:50,john.hagan
 9844,Zadok Tetteh,FTTH,549552298,,AYI MENSAH,Connection Issue,FTTH,TRUE,FALSE,9/10/2023 9:08,david.kotei
-9845,Edem,Inquiry,243711762,,"TETEGU RD, WEIJA",Service Inquiry,FTTH,TRUE,FALSE,9/10/2023 10:55,david.kotei
+9845,Edem,Inquiry,243711762,,WEIJA,Service Inquiry,FTTH,TRUE,FALSE,9/10/2023 10:55,david.kotei
 9846,Bernadette Kuwornu,FTTH,204074230,,KUNTUNSE,Connection Issue,FTTH,TRUE,FALSE,9/10/2023 10:57,john.hagan
 9847,Ivan boateng,4G,201722080,,OFANKOR,Connection Issue,4G Outdoor Router,TRUE,TRUE,9/10/2023 11:27,john.hagan
 9848,Charles,Inquiry,533363458,,TEMA,Service Inquiry,FTTH,TRUE,FALSE,9/10/2023 12:16,david.kotei
@@ -3571,7 +3571,7 @@
 9994,Renee,FTTH,302737578,gratialawyers@yahoo.com,LABONE,Connection Issue,FTTH,TRUE,FALSE,17/10/2023 12:03:43,fredrick.boateng
 9995,Bridget Quartey,FTTH,555118078,bquartey002@st.ug.edu.gh,KUNTUNSE,Connection Issue,FTTH,TRUE,FALSE,17/10/2023 12:21:36,david.kotei
 9996,Samuel Armah,4G,244230404,,KASOA,Connection Issue,4G Outdoor Router,TRUE,FALSE,17/10/2023 12:26:14,david.kotei
-9997,Augustine Simons,4G,208141765,,MARKET HIGH STREET. OKPOI GONNO,Connection Issue,4G Outdoor Router,TRUE,FALSE,17/10/2023 12:30:45,david.kotei
+9997,Augustine Simons,4G,208141765,,TESHIE,Connection Issue,4G Outdoor Router,TRUE,FALSE,17/10/2023 12:30:45,david.kotei
 9998,Mr. Frimpong,4G,244676739,eafrimpong@gmail.com,MOON HOUSE ENTERPRISES LTD,Connection Issue,4G Outdoor Router,TRUE,FALSE,17/10/2023 12:55:37,david.kotei
 9999,Maame Attafua,4G,246539999,,LEGON,Connection Issue,4G Outdoor Router,TRUE,FALSE,17/10/2023 18:13:08,sylvester.horsu
 10000,Morgan,4G,243285347,,TEIMAN,Top Up Issue,4G Outdoor Router,TRUE,FALSE,17/10/2023 18:13:10,john.hagan
@@ -3641,7 +3641,7 @@
 10064,Bernadette Kuwornu,FTTH,204074230,akumbaya@gmail.com,AYI MENSAH,Connection Issue,FTTH,TRUE,FALSE,23/10/2023 08:45:37,david.kotei
 10065,Hamad Abdallah,4G,269555001,,KOFORIDUA,Other,4G Outdoor Router,TRUE,FALSE,23/10/2023 08:51:05,david.kotei
 10066,Nii Noi Kofi Omafoe,FTTH,203669055,nnomaboe@gmail.com,AYI MENSAH,Connection Issue,FTTH,TRUE,FALSE,23/10/2023 08:54:51,david.kotei
-10067,Multix,4G,552232323,,"TOMAN,AMASAMAN",Top Up Issue,4G Outdoor Router,TRUE,FALSE,23/10/2023 09:22:25,david.kotei
+10067,Multix,4G,552232323,,AMASAMAN,Top Up Issue,4G Outdoor Router,TRUE,FALSE,23/10/2023 09:22:25,david.kotei
 10068,Matilda,FTTH,242873515,captniiayi@gmail.com,AYI MENSAH,Connection Issue,FTTH,TRUE,FALSE,23/10/2023 09:25:24,david.kotei
 10069,Lasana,Inquiry,262290650,,KUNTUNSE,Service Inquiry,FTTH,TRUE,FALSE,23/10/2023 09:50:58,david.kotei
 10070,Jonathan,4G,555208383,Salbert85@yahoo.com,TEMA,Top Up Issue,4G Outdoor Router,TRUE,FALSE,23/10/2023 10:01:11,john.hagan
@@ -3660,7 +3660,7 @@
 10083,Jones Baneseh,4G,243151576,,TESHIE,Other,4G Outdoor Router,TRUE,FALSE,23/10/2023 18:27:38,sylvester.horsu
 10084,Lordina,4G,247009200,,ACCRA,Other,4G Outdoor Router,TRUE,FALSE,24/10/2023 10:08:01,john.hagan
 10085,Kobby,4G,272385789,,ACCRA,Top Up Issue,4G Outdoor Router,TRUE,FALSE,24/10/2023 10:08:56,sylvester.horsu
-10086,Ben,Inquiry,204980053,,MAGNA TERRIS ESTATE,Service Inquiry,FTTH,TRUE,FALSE,24/10/2023 10:31:36,john.hagan
+10086,Ben,Inquiry,204980053,,TEMA,Service Inquiry,FTTH,TRUE,FALSE,24/10/2023 10:31:36,john.hagan
 10087,Joyce,FTTH,546388323,,LABONE,Top Up Issue,FTTH,TRUE,FALSE,24/10/2023 11:02:48,sylvester.horsu
 10088,Nick,Inquiry,509367848,,ABOKOBI,Service Inquiry,4G Outdoor Router,TRUE,FALSE,24/10/2023 13:27:00,john.hagan
 10089,Franklin,4G,243701735,,ACCRA,Top Up Issue,4G Outdoor Router,TRUE,FALSE,24/10/2023 14:10:55,david.kotei
@@ -3811,7 +3811,7 @@
 10234,Evelyn Ayindoo,4G,247846026,,LEGON,Connection Issue,4G Outdoor Router,TRUE,FALSE,7/11/2023 18:40,david.kotei
 10235,Yazid Ibrahim,4G,541622629,,ASHONGMAN,Connection Issue,4G Outdoor Router,TRUE,FALSE,8/11/2023 7:48,sylvester.horsu
 10236,Jakes,4G,246950416,,OLD ASHONGMAN,Connection Issue,4G Outdoor Router,TRUE,FALSE,8/11/2023 7:49,sylvester.horsu
-10237,Gare Lawson,4G,547180168,,PAPAO-HASTSO,Connection Issue,4G Outdoor Router,TRUE,TRUE,8/11/2023 7:51,sylvester.horsu
+10237,Gare Lawson,4G,547180168,,HAASTO,Connection Issue,4G Outdoor Router,TRUE,TRUE,8/11/2023 7:51,sylvester.horsu
 10238,Stephen,4G,246250264,,LEGON,Top Up Issue,4G Outdoor Router,TRUE,FALSE,8/11/2023 7:53,sylvester.horsu
 10239,Prince,4G,242188463,,HAASTO,Connection Issue,4G Outdoor Router,TRUE,FALSE,8/11/2023 7:55,sylvester.horsu
 10240,William,4G,244586814,,OFANKOR,Connection Issue,4G Outdoor Router,TRUE,FALSE,8/11/2023 8:01,sylvester.horsu
@@ -3937,7 +3937,7 @@
 10360,Brenda,4G,242586592,,SPINTEX,Connection Issue,4G Outdoor Router,TRUE,FALSE,17/11/2023 09:05:27,david.kotei
 10361,James,FTTH,559298741,tuabakotey@gmail.com,KUNTUNSE,Connection Issue,FTTH,TRUE,FALSE,17/11/2023 11:05:03,fredrick.boateng
 10362,Clement Lawson,4G,268067727,,SPINTEX,Connection Issue,4G Outdoor Router,TRUE,FALSE,17/11/2023 13:04:44,fredrick.boateng
-10363,Isaac Jacobs,FTTH,200306102,isaacjacobs@chevron.com,OSU - RIDGE,Manual Top Up Request,FTTH,TRUE,FALSE,17/11/2023 13:08:03,david.kotei
+10363,Isaac Jacobs,FTTH,200306102,isaacjacobs@chevron.com,OSU,Manual Top Up Request,FTTH,TRUE,FALSE,17/11/2023 13:08:03,david.kotei
 10364,Gloria Tamakloe,4G,557754411,,BORTEYMAN,Connection Issue,4G outdoor ,TRUE,TRUE,17/11/2023 14:58:00,sylvester.horsu
 10365,Solomon Okai,4G,244232950,,TESHIE,Connection Issue,4G Outdoor Router,TRUE,FALSE,17/11/2023 15:53:39,john.hagan
 10366,Sandeep,FTTH,596995061,,LABONE,Manual Top Up Request,FTTH,TRUE,FALSE,17/11/2023 16:59:41,john.hagan
@@ -4009,7 +4009,7 @@
 10432,Rabih,4G,550914651,,ABLEKUMA,Connection Issue,4G Outdoor Router,TRUE,FALSE,23/11/2023 09:13:25,john.hagan
 10433,Ernest,Inquiry,244846856,,ASHAIMAN,Service Inquiry,4G Outdoor Router,TRUE,FALSE,23/11/2023 09:16:14,sylvester.horsu
 10434,Christiana,4G,242234611,,ABLEKUMA,Connection Issue,4G Outdoor Router,TRUE,FALSE,23/11/2023 09:26:22,john.hagan
-10435,Ebenezer,Inquiry,244988779,,AMARHIA,Service Inquiry,4G Outdoor Router,TRUE,FALSE,23/11/2023 09:41:33,john.hagan
+10435,Ebenezer,Inquiry,244988779,,AMRAHIA,Service Inquiry,4G Outdoor Router,TRUE,FALSE,23/11/2023 09:41:33,john.hagan
 10436,Julien,Inquiry,245742159,,MATAHEKO,Service Inquiry,4G Mifi,TRUE,FALSE,23/11/2023 09:54:53,sylvester.horsu
 10437,Desmond,Inquiry,273929884,,DOME,Service Inquiry,Not Sure,TRUE,FALSE,23/11/2023 10:10:30,john.hagan
 10438,Kofi Asare,4G,559600008,,POKUASE,Connection Issue,4G Outdoor Router,TRUE,FALSE,23/11/2023 10:51:37,sylvester.horsu
@@ -4075,7 +4075,7 @@
 10498,teye,FTTH,242822260,,ACCRA,Service Inquiry,FTTH,TRUE,FALSE,28/11/2023 19:36:58,sylvester.horsu
 10499,Humble,4G,544443928,,TEMA,Connection Issue,4G Outdoor Router,TRUE,FALSE,29/11/2023 09:22:42,fredrick.boateng
 10500,Nana Ofosu Ntim,4G,558133660,,AFIENYA,Connection Issue,4G Outdoor Router,TRUE,FALSE,29/11/2023 09:37:03,fredrick.boateng
-10501,Clifford Addo,4G,592431574,,POBIMAN NSAWAM,Connection Issue,4G Outdoor Router,TRUE,TRUE,29/11/2023 09:43:20,fredrick.boateng
+10501,Clifford Addo,4G,592431574,,POBIMAM,Connection Issue,4G Outdoor Router,TRUE,TRUE,29/11/2023 09:43:20,fredrick.boateng
 10502,Suzzy Atukumah,4G,200009748,,TEMA,Connection Issue,4G Outdoor Router,TRUE,FALSE,29/11/2023 10:00:11,fredrick.boateng
 10503,Alfred atakora,4G,243423638,,SPINTEX,Connection Issue,4G Outdoor Router,TRUE,FALSE,29/11/2023 10:56:13,david.kotei
 10504,Captain Joel,Inquiry,595056336,,AIRPORT RESIDENCE,Service Inquiry,FTTH,TRUE,FALSE,29/11/2023 11:38:19,david.kotei
@@ -4083,14 +4083,14 @@
 10506,Roger,Inquiry,504767566,,SPINTEX,Service Inquiry,FTTH,TRUE,FALSE,29/11/2023 12:17:11,david.kotei
 10507,David,4G,532792311,,TEMA,Connection Issue,4G Outdoor Router,TRUE,FALSE,29/11/2023 12:21:37,david.kotei
 10508,Paul,4G,249857534,Jdiselafrifa@gmail.com,ASHALEY BOTWE,Connection Issue,4G Outdoor Router,TRUE,TRUE,29/11/2023 15:34:19,john.hagan
-10509,Kelvin Ayaa Tagoe,4G,533346555,tagoekelvinkwame32@gmail.com,TUBA VISA ESTATE,Manual Top Up Request,4G Outdoor Router,TRUE,FALSE,29/11/2023 15:37:25,sylvester.horsu
+10509,Kelvin Ayaa Tagoe,4G,533346555,tagoekelvinkwame32@gmail.com,WEIJA,Manual Top Up Request,4G Outdoor Router,TRUE,FALSE,29/11/2023 15:37:25,sylvester.horsu
 10510,Albert,Inquiry,503832750,,TESHIE,Service Inquiry,4G Outdoor Router,TRUE,FALSE,29/11/2023 16:23:38,john.hagan
 10511,Assiamah,Inquiry,266271979,,KUNTUNSE,Service Inquiry,4G Outdoor Router,TRUE,FALSE,29/11/2023 16:32:20,sylvester.horsu
 10512,Emmanuel,4G,540277197,,TEMA,Connection Issue,4G Outdoor Router,TRUE,FALSE,29/11/2023 17:09:26,john.hagan
 10513,Desmond,FTTH,249590461,,AYI MENSAH,Connection Issue,FTTH,TRUE,FALSE,29/11/2023 17:28:40,sylvester.horsu
 10514,Emmanuel Sackey,FTTH,549789838,,AYI MENSAH,Connection Issue,FTTH,TRUE,FALSE,29/11/2023 19:41:49,sylvester.horsu
 10515,Ayekple Melody,4G,548076132,,PANTANG,Connection Issue,4G Outdoor Router,TRUE,FALSE,30/11/2023 10:00:20,david.kotei
-10516,Fredda,4G,207470787,,TECHIE,Debit Without Value,4G Outdoor Router,TRUE,FALSE,30/11/2023 10:37:42,david.kotei
+10516,Fredda,4G,207470787,,TESHIE,Debit Without Value,4G Outdoor Router,TRUE,FALSE,30/11/2023 10:37:42,david.kotei
 10517,Aaron,4G,596041433,,AIRPORT RESIDENCE,Debit Without Value,4G Outdoor Router,TRUE,FALSE,30/11/2023 10:55:56,fredrick.boateng
 10518,Aaron,4G,244405721,,POKUASE,Connection Issue,4G Outdoor Router,TRUE,FALSE,30/11/2023 13:16:56,fredrick.boateng
 10519,Akwasi Sarpong Peprah,Inquiry,536426849,,TEMA,Service Inquiry,FTTH,TRUE,FALSE,30/11/2023 15:40:43,john.hagan
@@ -4144,7 +4144,7 @@
 10567,Kusi,Inquiry,557731719,,OYARIFA,Service Inquiry,FTTH,TRUE,FALSE,5/12/2023 15:35,david.kotei
 10568,Faruk,4G,241600417,,HAASTO,Connection Issue,4G Outdoor Router,TRUE,FALSE,5/12/2023 15:49,fredrick.boateng
 10569,Kharis Global Group,4G,594987198,,LEGON,Connection Issue,4G Outdoor Router,TRUE,FALSE,5/12/2023 18:02,david.kotei
-10570,Renee,FTTH,501209645,gratialawyers@yahoo.com,"GRATIA LAW CONSULT, OSU",Other,FTTH,TRUE,FALSE,5/12/2023 18:16,david.kotei
+10570,Renee,FTTH,501209645,gratialawyers@yahoo.com,OSU,Other,FTTH,TRUE,FALSE,5/12/2023 18:16,david.kotei
 10571,Evelyn,4G,247846026,,AGBOGBA,Connection Issue,4G Outdoor Router,TRUE,FALSE,5/12/2023 18:57,fredrick.boateng
 10572,Senyo kofi Akude,4G,246407069,,TEIMAN,Connection Issue,4G Outdoor Router,TRUE,FALSE,5/12/2023 19:24,fredrick.boateng
 10573,Gare Lawson,4G,547180168,,HAASTO,Connection Issue,4G Outdoor Router,TRUE,FALSE,5/12/2023 19:41,fredrick.boateng
@@ -4284,7 +4284,7 @@
 10707,Alex,Inquiry,596047058,,ABLEKUMA,Service Inquiry,FTTH,TRUE,FALSE,18/12/2023 12:28:48,john.hagan
 10708,Philip Awadey,FTTH,549494849,seawadey@yahoo.co.uk,REGIMANUEL,Connection Issue,FTTH,TRUE,TRUE,18/12/2023 15:42:33,fredrick.boateng
 10709,Yaya,4G,246830596,,KOFORIDUA,Top Up Issue,4G Outdoor Router,TRUE,FALSE,18/12/2023 15:48:13,fredrick.boateng
-10710,Ezziwalter,4G,248004679,,HFC ESTATE   COMM 18,Top Up Issue,4G Outdoor Router,TRUE,FALSE,18/12/2023 17:13:47,david.kotei
+10710,Ezziwalter,4G,248004679,,TEMA,Top Up Issue,4G Outdoor Router,TRUE,FALSE,18/12/2023 17:13:47,david.kotei
 10711,Fezzy,4G,535802259,,TEMA,Top Up Issue,4G Outdoor Router,TRUE,FALSE,18/12/2023 17:19:08,sylvester.horsu
 10712,Henry,Inquiry,240528317,,KATAMANSO,Service Inquiry,FTTH,TRUE,FALSE,18/12/2023 17:21:55,fredrick.boateng
 10713,Nyantakyi Samuel,4G,244924012,,ASOKORE,Top Up Issue,4G Outdoor Router,TRUE,FALSE,18/12/2023 17:22:36,sylvester.horsu
@@ -4389,7 +4389,7 @@
 10812,Abigail Asare Ampomah,4G,267515976,,SPINTEX,Top Up Issue,4G Outdoor Router,TRUE,FALSE,26/12/2023 13:54:07,john.hagan
 10813,Milli,Inquiry,204875999,,OYARIFA,Service Inquiry,FTTH,TRUE,FALSE,26/12/2023 14:52:35,john.hagan
 10814,Alex,4G,596047058,,ABLEKUMA,Connection Issue,4G Outdoor Router,TRUE,FALSE,26/12/2023 15:12:05,john.hagan
-10815,Gare Lawson,4G,547180168,,PAPAO-HASTSO,Connection Issue,4G Outdoor Router,TRUE,FALSE,26/12/2023 15:34:11,john.hagan
+10815,Gare Lawson,4G,547180168,,HAASTO,Connection Issue,4G Outdoor Router,TRUE,FALSE,26/12/2023 15:34:11,john.hagan
 10816,Godfred,4G,243246263,,TEMA,Connection Issue,4G Outdoor Router,TRUE,FALSE,26/12/2023 17:21:18,john.hagan
 10817,Cornelius Soer,Inquiry,548689717,,TESHIE,Service Inquiry,FTTH,TRUE,FALSE,27/12/2023 08:55:28,fredrick.boateng
 10818,George,Inquiry,245715683,,TEMA,Service Inquiry,FTTH,TRUE,FALSE,27/12/2023 09:52:43,david.kotei
@@ -4405,7 +4405,7 @@
 10828,Daniel,Inquiry,509443811,,AGBOGBA,Service Inquiry,FTTH,TRUE,FALSE,28/12/2023 16:45:35,john.hagan
 10829,Randy,Inquiry,244633925,,TEMA,Service Inquiry,FTTH,TRUE,FALSE,29/12/2023 08:30:30,fredrick.boateng
 10830,Rowland,Inquiry,548427924,,DAWHENYA,Service Inquiry,FTTH,TRUE,FALSE,29/12/2023 08:45:44,fredrick.boateng
-10831,Gare Lawson,4G,547180168,,PAPAO-HASTSO,Connection Issue,4G Outdoor Router,TRUE,FALSE,29/12/2023 10:30:08,fredrick.boateng
+10831,Gare Lawson,4G,547180168,,HAASTO,Connection Issue,4G Outdoor Router,TRUE,FALSE,29/12/2023 10:30:08,fredrick.boateng
 10832,Grace,4G,204751953,,LEGON,Connection Issue,4G Outdoor Router,TRUE,TRUE,29/12/2023 11:39:55,david.kotei
 10833,Isaac,4G,246305827,,LAPAZ,Other,4G Outdoor Router,TRUE,FALSE,29/12/2023 11:58:12,david.kotei
 10834,Lizzy,4G,244895467,,SAKUMONO,Manual Balance Request,4G Outdoor Router,TRUE,FALSE,29/12/2023 12:14:53,fredrick.boateng
